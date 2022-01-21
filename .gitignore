@@ -1,1 +1,10 @@
 update.sh
+
+*.*/
+mrtmp.*
+824-mrinput-*.txt
+src/main/diff.out
+src/mapreduce/x.txt
+src/pbservice/x.txt
+src/kvpaxos/x.txt
+src/*.so
